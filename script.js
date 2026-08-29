@@ -5,5 +5,5 @@ function register(event) {
 
     alert("Registration successful, " + name + "!");
 
-    window.location.href = "sucess.html";
+    window.location.href = "success.html";
 }
